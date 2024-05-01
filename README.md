@@ -1,9 +1,9 @@
 # EPI-Max-assignment.
 Node.js MySQL API Introduction This repository contains code for a Node.js API that connects to MySQL Workbench. It provides endpoints for interacting with the database.
 
-Setup Clone this repository:https://github.com/Vidya1026/EPI-Max-assignment..git bash
+Setup Clone this repository:https://github.com/Vidya1026/EPI-Max-assignment-backend-.git bash
 
-Copy code git clone https://github.com/Vidya1026/EPI-Max-assignment..git
+Copy code git clone https://github.com/Vidya1026/EPI-Max-assignment-backend-.git
 
 Ensure MySQL Workbench is installed and running. Configuration Port: 8080
 
